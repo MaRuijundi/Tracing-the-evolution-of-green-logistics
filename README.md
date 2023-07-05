@@ -14,6 +14,19 @@ R is a free software environment for mathematical, statistical computing, and gr
 [R studio download](https://www.r-project.org/)
 
 ### Packages in R
-* 
+* SnowballC
+* topicmodels
+* ggplot2
+* quantreg
+* LDAvis
+
+## Python
+The Python code is realized in Jupyter notebook of Anaconda3.
+
+[Anaconda download](https://anaconda.org/)
+
+### Packages in Python
+* pandas
+* sklearn
 
 
