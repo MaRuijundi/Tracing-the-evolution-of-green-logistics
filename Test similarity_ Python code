@@ -13,7 +13,7 @@ print(doc4_3)
 
 f = open("topic4.4.txt",encoding = "utf-8")
 doc4_4 = f.readlines()
-print(doc4_4)\
+print(doc4_4)
 
 f = open("topic5.1.txt",encoding = "utf-8")
 doc5_1 = f.readlines()
